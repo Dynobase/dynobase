@@ -6,7 +6,9 @@ Modern, flexible and fast DynamoDB editor. Accelerate your workflow with multipl
 
 ---
 
-- [Download it here](https://dynobase.dev)
+- [Download](https://dynobase.dev)
+
+- [Releases & Changelog](https://github.com/RafalWilinski/dynobase/releases)
 
 - [Roadmap](https://github.com/RafalWilinski/dynobase-roadmap)
 
