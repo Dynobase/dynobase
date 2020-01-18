@@ -4,7 +4,6 @@ Modern, flexible and fast DynamoDB editor. Accelerate your workflow with multipl
 
 ![Dynobase](https://dynobase.dev/static/dynobase-4afde394c982ddf5df3b607c9f8f040c.png)
 
----
 
 - [Download](https://dynobase.dev)
 
