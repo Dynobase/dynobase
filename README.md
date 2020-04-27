@@ -7,6 +7,8 @@ Modern, flexible and fast DynamoDB editor. Accelerate your workflow with multipl
 
 - [Download](https://dynobase.dev)
 
+or `brew cask install dynobase` on Mac.
+
 - [Releases & Changelog](https://github.com/RafalWilinski/dynobase/releases)
 
 
