@@ -2,7 +2,7 @@
 
 Modern, flexible and fast DynamoDB editor. Accelerate your workflow with multiple tabs & profiles, faster queries, bookmarks and more. 
 
-## [Download v1.5.1 (macOS / Win / Linux)](https://github.com/Dynobase/dynobase/releases/tag/1.5.1)
+## [Download v1.6.0 (macOS / Win / Linux)](https://github.com/Dynobase/dynobase/releases/tag/1.6.0)
 
 ![Dynobase](./dynobase-gui.png)
 
@@ -20,6 +20,7 @@ or `brew install --cask dynobase` on Mac.
 - DynamoDB Offline/Local support
 - PartiQL support - use SQL-like language to query DynamoDB
 - Creating / Deleting / Purging DynamoDB tables
+- Operation Builder
 - Dark Mode
 
 ---
