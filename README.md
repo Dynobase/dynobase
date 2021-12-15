@@ -2,9 +2,7 @@
 
 Modern, flexible and fast DynamoDB editor. Accelerate your workflow with multiple tabs & profiles, faster queries, bookmarks and more. 
 
-### [Download v1.7.2 (macOS / Win / Linux)](https://github.com/Dynobase/dynobase/releases/tag/1.7.2)
-
-### [Download Beta v1.7.3](https://github.com/Dynobase/dynobase/releases/tag/1.7.3)
+### [Download v1.7.2 (macOS / Win / Linux)](https://github.com/Dynobase/dynobase/releases/edit/v1.8.0)
 
 ![Dynobase](./dynobase-gui.png)
 
