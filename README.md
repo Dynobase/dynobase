@@ -28,4 +28,4 @@ or `brew install --cask dynobase` on Mac.
 - [Homepage](https://dynobase.dev)
 - [Releases & Changelog](https://github.com/RafalWilinski/dynobase/releases)
 
-Copyright 2021 Rafal Wilinski
+Copyright 2022 Rafal Wilinski
